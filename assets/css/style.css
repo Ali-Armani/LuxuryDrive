@@ -19,6 +19,11 @@
         gap: 30px;
     }
 
+    .nav-bar a {
+        color: white;
+        text-decoration: none;
+        font-size: 22px;
+
     body {
         padding-top: 35px;
     }
